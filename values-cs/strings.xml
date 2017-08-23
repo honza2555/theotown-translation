@@ -1,60 +1,60 @@
 <resources>
     <string name="app_name">TheoTown</string>
-    <string name="settings_title">Nastaveni</string>
-    <string name="loadcity_title">Nahrat mesto</string>
-    <string name="createcity_title">Nove mesto</string>
-    <string name="settings_defaults">Vychozi</string>
-    <string name="settings_apply">Pouzit</string>
+    <string name="settings_title">Nastavení</string>
+    <string name="loadcity_title">Nahrát město</string>
+    <string name="createcity_title">Nové město</string>
+    <string name="settings_defaults">Výchozí</string>
+    <string name="settings_apply">Použít</string>
     <string name="createcity_mapsize">Velikost:</string>
-    <string name="createcity_cityname">Nazev mesta:</string>
-    <string name="control_back">Zpet</string>
+    <string name="createcity_cityname">Název města:</string>
+    <string name="control_back">Zpět</string>
     <string name="createcity_start">Start</string>
     <string name="loadcity_load">Start</string>
-    <string name="welcome_agree">Souhlasim</string>
-    <string name="welcome_content">Vitejte v TheoTown
+    <string name="welcome_agree">Souhlasím</string>
+    <string name="welcome_content">Vítejte v TheoTown
 
-\n\nThis app is currently in development. Be aware of that there might be still some small bugs. Please do not vote down this project for those little issues. Keep in mind that it\'s free.
+\n\nTato aplikace je ve vývoji. Mohou se objevit menší chyby.Prosím nemějte ji kvůli tomu rádi. Mějte napaměti že je zdarma.
 
-\n\nIf you like this app you might support us by telling your friends about it.
+\n\nPokud máš rád tuto aplikaci můžeš o ní povědět přátelům.
 
 \n\nHave fun :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
-    <string name="game_habitants">Obyvatele: %1$,d</string>
+    <string name="game_habitants">Obyvatelé: %1$,d</string>
     <string name="game_cityname">%1$s</string>
-    <string name="createcity_seed">Zeme:</string>
-    <string name="createcity_sizesmall">Maly</string>
-    <string name="createcity_sizemiddle">Stredni</string>
-    <string name="createcity_sizebig">Velky</string>
-    <string name="createcity_sizeother">Ostatni</string>
+    <string name="createcity_seed">Země:</string>
+    <string name="createcity_sizesmall">Malý</string>
+    <string name="createcity_sizemiddle">Střední</string>
+    <string name="createcity_sizebig">Velký</string>
+    <string name="createcity_sizeother">Ostatní</string>
     <string name="game_monthlyincome">%1$,+d</string>
     <string name="game_estate">Majetek: %1$s</string>
     <string name="game_rating">%1$,d</string>
-    <string name="settings_resolutionlowlow">Velmi male</string>
-    <string name="settings_resolutionlow">Male</string>
-    <string name="settings_resolutionnormal">Normalni</string>
-    <string name="settings_resolutionbig">Velke</string>
-    <string name="settings_resolutionbigbig">Nejvetsi</string>
-    <string name="settings_resolution">Rozliseni</string>
-    <string name="dialog_nocities_title">Mesto nebylo nalezeno</string>
-    <string name="dialog_nocities_text">May not find any cities.</string>
-    <string name="dialog_nocities_cmdback">Zrusit</string>
-    <string name="dialog_nocities_cmdnewcity">Nove mesto</string>
+    <string name="settings_resolutionlowlow">Velmi malé</string>
+    <string name="settings_resolutionlow">Malé</string>
+    <string name="settings_resolutionnormal">Normální</string>
+    <string name="settings_resolutionbig">Velké</string>
+    <string name="settings_resolutionbigbig">Největsší</string>
+    <string name="settings_resolution">Rozlišení</string>
+    <string name="dialog_nocities_title">Město nebylo nalezeno</string>
+    <string name="dialog_nocities_text">Nemůžeme najít žádna města.</string>
+    <string name="dialog_nocities_cmdback">Zrušit</string>
+    <string name="dialog_nocities_cmdnewcity">Nové město</string>
     <string name="settings_showads">Zobrazit reklamu</string>
     <string name="settings_drawcars">Vykreslovat auta</string>
-    <string name="settings_drawsmoke">Vykreslovat kour</string>
-    <string name="settings_transparencybuildmode">Transparentnost pri staveni</string>
-    <string name="settings_buildgrid">Mrizky pri staveni</string>
-    <string name="settings_doublecardrawing">Dvojite vykreslovani aut</string>
-    <string name="settings_drawwatersparkle">Vykreslovat vodu sparkle</string>
+    <string name="settings_drawsmoke">Vykreslovat kouř</string>
+    <string name="settings_transparencybuildmode">Průhlednost při stavění</string>
+    <string name="settings_buildgrid">Mřížky při stavění</string>
+    <string name="settings_doublecardrawing">Dvojité vykreslování aut</string>
+    <string name="settings_drawwatersparkle">Vykreslovat vodu</string>
     <string name="settings_drawmapedges">Vykreslovat hrany mapy</string>
-    <string name="settings_hideads_title">Zavrit reklamu</string>
-    <string name="settings_hideads_text">If you really want to hide ads then it would be nice to support us by telling your friends about the app.
+    <string name="settings_hideads_title">Zavřít reklamu</string>
+    <string name="settings_hideads_text">Pokud chcete opravdu skrýt reklami, bylo by od vás hezké když by jste o nás řekli svým přátelům.
 
 \n\nOpravdu jste si jisty?</string>
     <string name="settings_hideads_yes">Ano, opravdu jsem si jisty</string>
     <string name="settings_hideads_no">Zrusit</string>
-    <string name="loadcity_errordialog_title">Nacitani chyba</string>
-    <string name="loadcity_errordialog_text">May not load the city, the file seems to be damaged.\n\nOmlouvame se.</string>
+    <string name="loadcity_errordialog_title">Chyba nacitani</string>
+    <string name="loadcity_errordialog_text">Nemuzeme nacist mesto, slozka je poskozena.\n\nOmlouvame se.</string>
     <string name="loadcity_errordialog_cmdcancel">Zrusit</string>
     <string name="dialog_screenshot_title">Obrazek prijat</string>
     <string name="dialog_screenshot_text">Obrazek byl ulozen jako %1$s.</string>
@@ -84,16 +84,16 @@
     <string name="savewaiting_title">Ukladam mesto</string>
     <string name="loadwaiting_title">Nacitam mesto</string>
     <string name="dialog_invalidcityname_title">Spatne jmeno</string>
-    <string name="dialog_invalidcityname_text">Please use another name for your city. It\'s not allowed to be empty.</string>
+    <string name="dialog_invalidcityname_text">Prosim pouzite jine jmeno pro vase mesto. Nazev nemuze byt prazdny.</string>
     <string name="dialog_invalidcityname_cmdok">Ok</string>
     <string name="dialog_hugesize_title">Obrovska mapa</string>
-    <string name="dialog_hugesize_text">This size is just experimental and may not work on your device. Do you really need a huge map?</string>
+    <string name="dialog_hugesize_text">Toto je experimentalni velikost a nemusi fungovat na vasem zarizeni. Opravdu potrebujete velkou mapu?</string>
     <string name="dialog_hugesize_cmdyes">Ano</string>
     <string name="dialog_hugesize_cmdno">Ne</string>
     <string name="draft_church00_title">Kostel</string>
-    <string name="draft_church00_text">Every little town needs a church.</string>
+    <string name="draft_church00_text">Kazde male mesto potrebuje kostel.</string>
     <string name="draft_townhall00_title">Radnice</string>
-    <string name="draft_townhall00_text">A big city needs a City Hall. Habitants will like it.</string>
+    <string name="draft_townhall00_text">Velke mesto potrebuje mestskou halu. Obyvatele ji maji radi.</string>
     <string name="draft_wire00_title">Wires</string>
     <string name="draft_wire00_text">Use these wires to connect your city with your power plants.</string>
     <string name="draft_windturbine00_title">Wind turbine</string>
